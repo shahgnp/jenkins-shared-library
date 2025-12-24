@@ -1,6 +1,6 @@
 def call(String appName, String riskLevel) {
     echo "========================================================"
-    echo "   Trainer Solutions - OFFICIAL AUDIT LOG"
+    echo "   NCHL - OFFICIAL AUDIT LOG"
     echo "========================================================"
     echo "   Application: ${appName}"
     echo "   Risk Level : ${riskLevel}"
